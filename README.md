@@ -1,5 +1,5 @@
 # crytolive
-##### A pet project
+##### A pet project for testing out Heroku
 
 This is a project to retrieves live cryptocurrency prices for the top 20 cryptocurrency from the **CoinMarketCap**
 
