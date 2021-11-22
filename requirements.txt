@@ -5,3 +5,4 @@ Beautifulsoup4==4.9.1
 base58==2.1.1
 requests==2.24.0
 json5==0.9.5
+lxml==4.5.2
